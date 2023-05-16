@@ -1,0 +1,2 @@
+we will understand if statement, nested if, if-else block, if-elseif-else block, while loops, will also create a lot of programs and at the end we will try some pattern questions. 
+Interesting thing is when we talk about Patterns, we have made next video dedicated to pattern questions.a
