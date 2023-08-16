@@ -18,6 +18,7 @@ int main() {
   for(int i = 0; i < n; i++) {
     cin>>arr[i];
   }
+  // cout<<"Address of arr: " << &arr << endl;
 
   cout<<"Enter the value you want to find: "; 
   cin>>value;
